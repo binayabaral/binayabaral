@@ -10,4 +10,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=binayabaral&theme=dark)](https://git.io/streak-stats)
 
+<!--
 ![](https://komarev.com/ghpvc/?username=binayabaral&color=lightgrey)
+-->
