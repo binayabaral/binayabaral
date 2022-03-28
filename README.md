@@ -7,3 +7,7 @@
 🌐 My Website: ... [https://binayabaral.com.np/](https://binayabaral.com.np/)
 
 [![Binaya Baral's GitHub stats](https://github-readme-stats.vercel.app/api?username=binayabaral&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=binayabaral&theme=dark)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=binayabaral&color=lightgrey)
