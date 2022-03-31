@@ -10,6 +10,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=binayabaral&theme=dark)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binayabaral&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 ![](https://komarev.com/ghpvc/?username=binayabaral&color=lightgrey)
 -->
