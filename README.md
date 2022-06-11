@@ -11,3 +11,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=binayabaral&theme=gotham)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binayabaral&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=binayabaral&theme=gotham)
