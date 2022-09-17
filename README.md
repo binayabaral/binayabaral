@@ -4,7 +4,7 @@
 
 ⚡ Fun fact: ... Banging your head against a wall for one hour burns 150 calories.🤣🤣🤣
 
-🌐 My Website: ... [https://binayabaral.com.np/](https://binayabaral.com.np/)
+🌐 My Website: ... [https://binayabaral.com.np/](https://binayabaral.com.np/), [https://baralbinaya.com.np/](https://baralbinaya.com.np/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binayabaral&layout=compact&theme=gotham)
 
