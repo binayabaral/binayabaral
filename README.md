@@ -13,4 +13,4 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=binayabaral&theme=gotham)
 
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=binayabaral&theme=gotham) -->
-![](https://github-contributor-stats.vercel.app/api?username=Farhana007&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=binayabaral&limit=5&theme=dark&combine_all_yearly_contributions=true)
